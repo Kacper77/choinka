@@ -10,3 +10,5 @@ console.log(star);
 
 }
 }
+
+drawTree(5);
